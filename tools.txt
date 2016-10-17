@@ -1,0 +1,2 @@
+http://www.jlion.com/Tools/jTherm.aspx
+<img src="http://www.jlion.com:80//tools/Thermometer.aspx?MIN=0&MAX=600000&VT=1&T=Current Status&IV=102602&M=0&SC=0&CS=2&CI=en-US&TH=1" style="border: solid 0px black;" alt="Current+Status" title="Current+Status" width="130" height="191"/>
